@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<families>
+	<family id="1">
+		<mother maiden-name="Petrova">
+			<name>Olga</name>
+			<surname>Dimidova</surname>
+			<age>48</age>
+		</mother>
+		<father>
+			<name>Igor</name>
+			<surname>Dimidov</surname>
+			<age>52</age>
+			<military />
+		</father>
+		<children>
+			<child>
+				<name>Igor</name>
+				<surname>Dimidov</surname>
+				<age>8</age>
+				<gender>male</gender>
+			</child>
+			<child>
+				<name>Sveta</name>
+				<surname>Dimidova</surname>
+				<age>5</age>
+				<gender>female</gender>
+			</child>
+		</children>
+	</family>
+	<family id="2">
+		<mother maiden-name="Ivanova">
+			<name>Ella</name>
+			<surname>Jukova</surname>
+			<age>23</age>
+		</mother>
+		<father>
+			<name>Petr</name>
+			<surname>Jukov</surname>
+			<age>24</age>
+			<military />
+		</father>
+		<children>
+			<child>
+				<name>Petro</name>
+				<surname>Jukova</surname>
+				<age>1</age>
+				<gender>male</gender>
+			</child>
+		</children>
+	</family>
+	<family id="3">
+		<mother maiden-name="Galkina">
+			<name>Kate</name>
+			<surname>Petrova</surname>
+			<age>30</age>
+		</mother>
+		<father>
+			<name>Ivan</name>
+			<surname>Petrov</surname>
+			<age>35</age>
+			<military />
+		</father>
+		<children>
+			<child>
+				<name>Poly</name>
+				<surname>Petrova</surname>
+				<age>5</age>
+				<gender>female</gender>
+			</child>
+			<child>
+				<name>Mike</name>
+				<surname>Petrov</surname>
+				<age>12</age>
+				<gender>male</gender>
+			</child>
+			<child>
+				<name>Ally</name>
+				<surname>Petrova</surname>
+				<age>17</age>
+				<gender>female</gender>
+			</child>
+		</children>
+	</family>
+</families>
